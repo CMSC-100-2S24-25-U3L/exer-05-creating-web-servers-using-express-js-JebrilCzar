@@ -40,14 +40,4 @@ needle.post(
   }
 );
 
-// const books = readFileSync("./books.txt", "utf-8");
-// const books_instance = books.split("\n");
 
-// for (let i = 0; i < books_instance.length; i++) {
-//   var attributes = books_instance[i].split(",");
-//   if ((attributes[2] = "J.K Rowling")) {
-//     console.log(books_instance[i]);
-//   }
-// }
-//console.log(page.length);
-//console.log(page);
